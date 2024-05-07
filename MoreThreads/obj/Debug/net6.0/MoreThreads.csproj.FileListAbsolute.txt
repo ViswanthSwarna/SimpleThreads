@@ -1,0 +1,14 @@
+C:\Users\VISWANTH\source\repos\SimpleThreads\MoreThreads\bin\Debug\net6.0\MoreThreads.exe
+C:\Users\VISWANTH\source\repos\SimpleThreads\MoreThreads\bin\Debug\net6.0\MoreThreads.deps.json
+C:\Users\VISWANTH\source\repos\SimpleThreads\MoreThreads\bin\Debug\net6.0\MoreThreads.runtimeconfig.json
+C:\Users\VISWANTH\source\repos\SimpleThreads\MoreThreads\bin\Debug\net6.0\MoreThreads.dll
+C:\Users\VISWANTH\source\repos\SimpleThreads\MoreThreads\bin\Debug\net6.0\MoreThreads.pdb
+C:\Users\VISWANTH\source\repos\SimpleThreads\MoreThreads\obj\Debug\net6.0\MoreThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISWANTH\source\repos\SimpleThreads\MoreThreads\obj\Debug\net6.0\MoreThreads.AssemblyInfoInputs.cache
+C:\Users\VISWANTH\source\repos\SimpleThreads\MoreThreads\obj\Debug\net6.0\MoreThreads.AssemblyInfo.cs
+C:\Users\VISWANTH\source\repos\SimpleThreads\MoreThreads\obj\Debug\net6.0\MoreThreads.csproj.CoreCompileInputs.cache
+C:\Users\VISWANTH\source\repos\SimpleThreads\MoreThreads\obj\Debug\net6.0\MoreThreads.dll
+C:\Users\VISWANTH\source\repos\SimpleThreads\MoreThreads\obj\Debug\net6.0\refint\MoreThreads.dll
+C:\Users\VISWANTH\source\repos\SimpleThreads\MoreThreads\obj\Debug\net6.0\MoreThreads.pdb
+C:\Users\VISWANTH\source\repos\SimpleThreads\MoreThreads\obj\Debug\net6.0\MoreThreads.genruntimeconfig.cache
+C:\Users\VISWANTH\source\repos\SimpleThreads\MoreThreads\obj\Debug\net6.0\ref\MoreThreads.dll
